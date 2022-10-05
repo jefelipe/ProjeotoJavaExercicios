@@ -5,11 +5,18 @@ import java.util.Scanner;
 public class Exercicio01 {
 	
 		// NOME: JEAN FELIPE ERMELINDO  
+<<<<<<< HEAD:Exercicios02/Exercicios02e03/src/br/com/fecaf/exercicio02/Exercicio03Taboada.java.java
 	    // NOME: JEAN FELIPE ERMELINDO  
 	    // Código que realiza duas tabuadas, a inicial e final.
 	    // Informando o número inicial das tabuadas até o número final, realizando assim
 		// a tabuada desejada.
 		
+=======
+		// Código que realiza duas tabuadas, a inicial e final.
+		// Informando o número inicial das tabuadas até o número final, realizando assim
+		// a tabuada desejada.
+	   
+>>>>>>> 9b0a116e0b4560833e7ea8cc2eb965535c5d860e:Exercicio02tabuada.java
 	public static void main(String[] args) {
 		int tabInicial;
 		int tabFinal;
