@@ -5,7 +5,11 @@ import java.util.Scanner;
 public class Exercicio01 {
 	
 		// NOME: JEAN FELIPE ERMELINDO  
-	   
+	    // NOME: JEAN FELIPE ERMELINDO  
+	    // Código que realiza duas tabuadas, a inicial e final.
+	    // Informando o número inicial das tabuadas até o número final, realizando assim
+		// a tabuada desejada.
+		
 	public static void main(String[] args) {
 		int tabInicial;
 		int tabFinal;
